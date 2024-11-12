@@ -1,1 +1,3 @@
 # -Enhancing-Spam-Email-Detection-wit-Optimized-Machine-Learning
+This study aims to enhance spam email detection by employing a Grid Search Optimizer for hyperparameter tuning combined with a Soft Voting ensemble classification approach. It integrates four classifiers—Support Vector Machine, Random Forest, Naive Bayes, and XGBoost—and evaluates performance on the Enron1 dataset. The ensemble model achieved significant improvements over individual classifiers, reaching an accuracy of 99.12% and an AUC of 1.00, demonstrating exceptional capability in distinguishing spam from legitimate emails. This method advances spam detection by boosting accuracy, generalization, and robustness.
+Note: This project is published in the COMPAS 2024 Conference.
